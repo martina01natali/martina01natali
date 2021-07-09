@@ -1,1 +1,1 @@
-Hi, I'm @martina01natali! Currently working on processing of satellite SAR data processing and geophysics' software.
+Hi, I'm @martina01natali! Currently working on processing SAR satellite images and geophysics' software.
